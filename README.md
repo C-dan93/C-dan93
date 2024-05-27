@@ -1,7 +1,5 @@
-👋 Hi, I’m @C-dan93
+Welcome to my portfolio of data-driven projects! 
 
-This repository contains a selection of projects completed as part of my coursework at the University of Stirling. Each project is documented in its respective Jupyter Notebook, providing details on the problem statement, methodology, results, and conclusions.
+I am passionate about using data to solve problems, and I am fluent in both Python and R. 
 
-These projects showcase my skills in data analysis, machine learning, and statistical modeling. I am eager to apply these skills to real-world challenges and continue learning in this exciting field.
-
-Future projects will be hosted in separate repositories for better organization and clarity. Feel free to explore my work and reach out if you have any questions or collaboration opportunities!
+The projects in this repository highlight my ability to manipulate, analyze, and visualize data using various tools and techniques.

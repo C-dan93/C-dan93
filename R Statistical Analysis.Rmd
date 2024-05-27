@@ -187,37 +187,12 @@ Test Conclusion: There is a linear relationship between LBM and BMI.
 
 #11.0 Assessing the predictive performance of the model
 ```{r}
-# Assign to a different name to the model.
-lm_model <- lm(LBM ~ BMI, data = male_data)
-# Prediction and Confidence Intervals
-new_data <- data.frame(BMI = seq(min(male_data$BMI), max(male_data$BMI)))
-preds <- predict(lm_model, new_data, interval = "prediction")
-confs <- predict(lm_model, new_data, interval = "confidence")
-# Plotting Predictions and Intervals
-plot(male_data$BMI, male_data$LBM, col = "blue", main = "Scatter Plot with Fitted 
-Regression Line and Intervals")
-abline(lm_model, col = "red") 
-# and plot the predicted(preds) lower and upper range with dashed line (lty=2)
-lines(new_data$BMI, preds[, "lwr"], col = "green", lty = 2)
-lines(new_data$BMI, preds[, "upr"], col = "green", lty = 2)
-# and also plot the confidence(confs) lower and upper range 
-lines(new_data$BMI, confs[, "lwr"], col = "orange")
-lines(new_data$BMI, confs[, "upr"], col = "orange")
-# Residual Analysis and Model Summary
-residuals <- residuals(lm_model)
-plot(male_data$BMI, residuals, col = "purple", main = "Residual Plot")
-abline(h = 0, col = "red", lty = 2)
-summary(lm_model)
+# Assuming you have a separate test dataset called 'test_data'
+predictions <- predict(lm_model, test_data)
+mse <- mean((predictions - test_data$LBM)^2)
+print(paste("Mean Squared Error:", mse))
 ```
-The scatter plot points (blue tiny circles) show the linear relationship between 
-LBM and BMI.
-• Most of the observed points (blue tiny circles) fall within the interval lines 
-(green lines), this is a positive indication of the model’s reliability. 
-• The narrow confidence intervals (orange lines) indicate that the model 
-operates with a lower uncertainty, and this is good for predictive purposes.
-• The positive correlation in the graph shows implies that as LBM increases, 
-BMI increases. This in no way implies direct causation, though there is such a 
-possibility.
+
 
 
 

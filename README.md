@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @C-dan93
-- 👀 I’m relatively new to programming but I am willing to learn as much as I can, in the shortest possible time. ;)
-- 🌱 I’m currently started a course on R programming and about to complete a Google Data Analytics course. Hope to switch to Python in the nearest future.
-- 💞️ I’m looking to collaborate on any project that requires SQL and R programming skills.
-- 📫 You can reach me on cokpara71@gmail.com
+👋 Hi, I’m @C-dan93
+This repository contains a selection of projects completed as part of my coursework at the University of Stirling. Each project is documented in its respective Jupyter Notebook, providing details on the problem statement, methodology, results, and conclusions.
 
-<!---
-C-dan93/C-dan93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+These projects showcase my skills in data analysis, machine learning, and statistical modeling. I am eager to apply these skills to real-world challenges and continue learning in this exciting field.
+
+Future projects will be hosted in separate repositories for better organization and clarity. Feel free to explore my work and reach out if you have any questions or collaboration opportunities!

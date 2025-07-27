@@ -18,14 +18,14 @@ Self-taught data analyst documenting my learning journey through hands-on projec
 
 **Analytics & Visualization Tools:**
 
-Power BI (Data Modeling, Dashboard Creation, DAX)
-Excel (Advanced Functions, Pivot Tables, Data Analysis)
+- Power BI (Data Modeling, Dashboard Creation, DAX)
+- Excel (Advanced Functions, Pivot Tables, Data Analysis)
 
 **Databases:**
 
-Relational Databases (MySQL, PostgreSQL)
-NoSQL (MongoDB)
-Database Design & Normalization
+- Relational Databases (MySQL, PostgreSQL)
+- NoSQL (MongoDB)
+- Database Design & Normalization
 
 ## 📈 Learning Philosophy
 

@@ -16,6 +16,17 @@ Self-taught data analyst documenting my learning journey through hands-on projec
 - R (Statistical Analysis, Data Visualization)
 - Java (Object-Oriented Programming, Data Structures)
 
+**Analytics & Visualization Tools:**
+
+Power BI (Data Modeling, Dashboard Creation, DAX)
+Excel (Advanced Functions, Pivot Tables, Data Analysis)
+
+**Databases:**
+
+Relational Databases (MySQL, PostgreSQL)
+NoSQL (MongoDB)
+Database Design & Normalization
+
 ## 📈 Learning Philosophy
 
 **Write to Learn:** I document my learning process through detailed guides and tutorials

@@ -23,7 +23,7 @@ Self-taught data analyst documenting my learning journey through hands-on projec
 
 **Databases:**
 
-- Relational Databases (MySQL, PostgreSQL)
+- Relational Databases (MySQL)
 - NoSQL (MongoDB)
 - Database Design & Normalization
 

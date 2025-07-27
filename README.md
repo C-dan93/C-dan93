@@ -11,7 +11,7 @@ Self-taught data analyst documenting my learning journey through hands-on projec
 ## 🛠️ Technical Skills
 
 **Programming Languages:**
-- Python (Data Analysis, Automation, Dataset Generation)
+- Python (Data Analysis, Automation, Dataset Science)
 - SQL (Database Design, Query Optimization, Data Extraction)
 - R (Statistical Analysis, Data Visualization)
 - Java (Object-Oriented Programming, Data Structures)
